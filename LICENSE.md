@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://img.icons8.com/fluency/96/null/web-design.png" width="120">
   
@@ -95,4 +94,3 @@
   
   <sub>© 2026 Xara Web Designer+ | For Windows Only</sub>
 </div>
-```
