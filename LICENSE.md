@@ -22,7 +22,7 @@
 
 <br>
 
-## ✨ Features
+## ✨ Features:
 - **Full Activated** – No license key required
 - **Latest 2026 Build** – Fresh release
 - **Responsive Design** – Desktop, tablet & mobile ready
